@@ -5,6 +5,9 @@ Since swin-transformer is used in segmentation applications using mmopenlab, thi
 ## Dataset
 From [ADE20K](https://github.com/CSAILVision/ADE20K)
 
+## Pre-training data
+From swin_tiny_patch4_window7_224.pth.It comes from the official pre-trained weights for ImageNet-1K, which you can find, download, and configure on the [official GitHub release page](https://github.com/microsoft/Swin-Transformer?tab=readme-ov-file#main-results-on-imagenet-with-pretrained-models).
+
 ## Source code
 [Swin-transformer](https://github.com/microsoft/Swin-Transformer) and [Semantic Segmentation of Swin-transformer](https://github.com/SwinTransformer/Swin-Transformer-Semantic-Segmentation)
 
