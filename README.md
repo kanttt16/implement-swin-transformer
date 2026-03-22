@@ -1,4 +1,4 @@
-# implement-swin-transformer
+# implement-swin-transformer-segmentation
 This is a easy test of swin-transformer in ade20k dataset
 Since swin-transformer is used in segmentation applications using mmopenlab, this repository attempts to implement swin-transformer's segmentation functionality using PyTorch.
 
